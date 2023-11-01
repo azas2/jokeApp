@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Splash_background_Color">#FFF0CE</color>
+    <color name="Text_background_1">#0C356A</color>
+    <color name="Text_background_2">#FFFFFF</color>
+    <color name="outline_button_color_text">#FFC436</color>
+</resources>
